@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: zahid@gmail.com
+Date: Tue, 15 Jun 2021 06:32:55 -0000
+Message-ID: <162373877503.4704.17304779965264564247@Potato-PC>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MTA/aoaauu-af5418f7308798fd8284e5d4110787ac/
+
+Your username, in case you’ve forgotten: Zahid
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
